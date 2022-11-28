@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I am looking to build a very rough looking HTML website to list out a few of my favorite meals. While I won't have any CSS knowledge for this website, it will contain all the the HTML elements that I learned thus far. Hope you're hungry!
